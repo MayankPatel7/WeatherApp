@@ -5,7 +5,7 @@ city = input("Enter the city name: ")
 
 def get_request(city):
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
-    api_key = YOUR API KEY in string
+    api_key = "YOUR API KEY"
     url = base_url+"appid="+api_key+"&q="+city+"&units=metric"
     data = requests.get(url).json()
 
