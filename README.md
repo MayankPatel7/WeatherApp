@@ -6,5 +6,5 @@ your will need to create an account on https://openweathermap.org/api and then y
 
 Library Requirments:-
 1. you only need "requests" library which you can install using following command
-   Past the following command on any terminal: "pip install requests" - windows
+   paste the following command on any terminal: "pip install requests" - windows
                                                "pip3 install requests"- MacOS and Linux
